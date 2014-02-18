@@ -9,5 +9,7 @@ package covoiturage;
  * @author dell
  */
 public class User {
+    int a,b,c;
+    
     
 }
