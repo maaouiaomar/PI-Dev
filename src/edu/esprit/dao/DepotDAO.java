@@ -5,7 +5,7 @@
 
 package edu.esprit.dao;
 
-import edu.covoiturage.entities.Depot;
+import edu.esprit.entities.Depot;
 import edu.esprit.util.MyConnection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
