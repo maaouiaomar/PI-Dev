@@ -14,7 +14,7 @@ public class Covoiturage {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Esprit");
+        System.out.println("E");
         
     }
 }
